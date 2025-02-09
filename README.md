@@ -2,7 +2,7 @@
 
 #### Projeto : amigo-secreto
 
-#### Data : 06/01/2025
+#### Data : 06/02/2025
 
 #### Formação
 
@@ -14,4 +14,4 @@
 
 #### Módulo
 
-[04 Projeto Amigo Secreto](https://cursos.alura.com.br/course/logica-programacao-praticando-desafios/task/139835)
+[05 Projeto Amigo Secreto](https://cursos.alura.com.br/course/logica-programacao-praticando-desafios/task/139835)
